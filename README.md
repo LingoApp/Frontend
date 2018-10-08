@@ -1,1 +1,1 @@
-# LingoApp_frontend
+# Frontend
